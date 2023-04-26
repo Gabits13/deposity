@@ -1,0 +1,72 @@
+ @charset "UTF-8";
+
+p#p1 {
+    font-family: Georgia;
+    font-size: 24pt;
+    color: red;
+    text-align: center;
+    text-indent: 50px;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+p#p2 {
+    font-family: Georgia;
+    font-size: 14pt;
+    color:rgb(0, 236, 98);
+    text-align: right;
+    text-indent: 50px;
+}
+p#p3 {
+    font-family: Georgia;
+    font-size: 14pt;
+    color:rgb(196, 230, 7);
+    text-align: center;
+    text-indent: 50px;
+}
+p#p4 {
+     font-family: georgia;
+     font-size: 14pt;
+     color: blue;
+     text-align: justify;
+     text-indent: 50px;
+}
+p#p5 {
+    background-image: url("aco.jpg");
+    font-family: georgia;
+    font-size: 16pt;
+    color:brown;
+    text-align: justify;
+    text-indent: 50px;
+}
+p#p6 {
+    font-family: Georgia;
+    font-size: 14pt;
+   
+}
+p#p7 {
+    font-family: Arial;
+    font-size: 12pt;
+    color:blue;
+}
+
+p#p8 {
+    font-family: Georgia;
+    font-size: 14pt;
+    color: black;
+}
+p#p9 {
+    font-family: Arial;
+    font-size: 12pt;
+    color: blue;
+}
+p#p10 {
+    font-family: Georgia;
+    font-size: 14pt;
+    color: black;
+}
+p#p11 {
+    font-family: Arial;
+    font-size: 12pt;
+    color: blue;
+}
